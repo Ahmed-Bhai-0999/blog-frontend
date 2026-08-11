@@ -17,7 +17,7 @@ export default function Sidebar() {
             }}
         >
             <div className="border-bottom border-secondary p-2">
-                <h2 className="text-center mb-0 text-white">B-A Blog Admin</h2>
+                <h2 className="text-center mb-0 text-white">Blog Admin</h2>
             </div>
 
             <ul className="nav flex-column p-3">
