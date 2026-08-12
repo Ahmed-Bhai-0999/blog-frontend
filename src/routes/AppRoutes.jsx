@@ -77,10 +77,10 @@ import SeoSetting from "../pages/Admin/Seo/SeoSetting";
 import CreateSeoSetting from "../pages/Admin/Seo/CreateSeoSetting";
 import EditSeoSetting from "../pages/Admin/Seo/EditSeoSetting";
 
-import NewsletterList from "../pages/Admin/Newsletter/NewsletterList";
-import EditNewsletter from "../pages/Admin/Newsletter/EditNewsletter";
-import CreateNewsletter from "../pages/Admin/Newsletter/CreateNewsletter";
-import TrashNewsletter from "../pages/Admin/Newsletter/TrashNewsletter";
+import NewsletterList from "../pages/Admin/NewsLetter/NewsletterList";
+import EditNewsletter from "../pages/Admin/NewsLetter/EditNewsletter";
+import CreateNewsletter from "../pages/Admin/NewsLetter/CreateNewsletter";
+import TrashNewsletter from "../pages/Admin/NewsLetter/TrashNewsletter";
 
 export default function AppRoutes() {
     return (
