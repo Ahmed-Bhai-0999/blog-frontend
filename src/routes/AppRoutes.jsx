@@ -11,7 +11,7 @@ import SinglePost from "../pages/Post/SinglePost";
 import CategoryPosts from "../pages/Category/CategoryPosts";
 import TagPosts from "../pages/Tag/TagPosts";
 import AuthorPosts from "../pages/Author/AuthorPosts";
-import Search from "../pages/Search/Search";
+import Search from "../pages/Search/search";
 import About from "../pages/About/About";
 import Contact from "../pages/Contact/Contact";
 import Page from "../pages/Static/Page";
